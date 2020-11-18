@@ -7,17 +7,20 @@ To run the app in the development mode.<br>
 $npm i <br />
 $npm run dev <br />
 
-OR
+****  OR  ****
 
-$yarn install
-$yarn dev
+$yarn install <br />
+$yarn dev <br />
 
-To run production build:
+<br />
 
-$npm run build
-$npm start
+To run production build: <br />
 
-OR
-$yarn build
-$yarn start
+$npm run build <br />
+$npm start <br />
+
+****  OR  ****
+
+$yarn build <br />
+$yarn start <br />
 
