@@ -19,5 +19,8 @@
     "redux-thunk": "^2.3.0",
     "redux-wrapper": "^0.0.1",
     "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.11.1"
   }
 }
