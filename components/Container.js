@@ -7,4 +7,5 @@ export default styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background: #f1f1f1;
 `;
